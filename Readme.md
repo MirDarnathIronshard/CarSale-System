@@ -147,7 +147,7 @@ Password: foobar
 #### PgAdmin  [http://localhost:8090](http://localhost:8090)
 
 ```
-Username: h.naimaei@gmail.com
+Username: "Your Username"
 Password: 123456
 ```
 
